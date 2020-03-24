@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Jwill1258/FriendFinder#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "node": "^13.6.0"
   }
 }
