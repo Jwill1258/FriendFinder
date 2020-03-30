@@ -1,7 +1,7 @@
 var friends = [
     {
       name: "Simba",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+      photo: "https://vignette.wikia.nocookie.net/disney/images/3/37/Profile_-_Simba.jpeg/revision/latest?cb=20190312043852",
       scores: [
         "5",
         "1",
@@ -17,7 +17,7 @@ var friends = [
     },
     {
       name: "Jack Sparrow",
-      photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      photo: "https://www.screengeek.net/wp-content/uploads/2020/02/Johnny-Depp-Jack-Sparrow.jpg",
       scores: [
         "4",
         "2",
@@ -33,7 +33,7 @@ var friends = [
     },
     {
       name: "Hercules",
-      photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+      photo: "https://vignette.wikia.nocookie.net/disney/images/7/70/Profile_-_Hercules.jpeg/revision/latest?cb=20190425234021",
       scores: [
         "5",
         "2",
@@ -65,7 +65,7 @@ var friends = [
     },
     {
       name: "Buzz",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+      photo: "https://vignette.wikia.nocookie.net/disney/images/7/74/Profile_-_Buzz_Lightyear.jpeg/revision/latest?cb=20190623020017",
       scores: [
         "4",
         "3",
@@ -81,7 +81,7 @@ var friends = [
     },
     {
       name: "Tarzan",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+      photo: "https://vignette.wikia.nocookie.net/disney/images/2/2e/Profile_-_Tarzan.png/revision/latest?cb=20190821020257",
       scores: [
         "4",
         "4",
