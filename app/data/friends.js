@@ -49,7 +49,7 @@ var friends = [
     },
     {
       name: "Shrek",
-      photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+      photo: "https://img1.looper.com/img/gallery/things-only-adults-notice-in-shrek/intro-1573597941.jpg",
       scores: [
         "3",
         "3",
